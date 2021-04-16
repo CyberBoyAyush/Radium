@@ -4,7 +4,7 @@
     <video
       ref="videoPlayer"
       class="video-js vjs-radium-theme"
-      poster="https://imbt.ga/Fr4ofLGmLT"
+      poster="https://imbt.ga/kMyr0svgGo"
       crossorigin="anonymous"
     >
       <track kind="captions" :src="subtitleUrl" srclang="en" label="default" />
